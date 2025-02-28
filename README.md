@@ -1,4 +1,4 @@
-# Sneha15B
+
 IBM project
 # Diabetes Prediction Model
 
